@@ -6,4 +6,4 @@ Image processing of microstructure is done using various modules of scikit-image
 
 https://scikit-image.org/
 
-https://unsplash.com/photos/MiJofnf6XVs
+https://unsplash.com/photos/MiJofnf6XVs renamed as 'Particles.jpg' in the code
